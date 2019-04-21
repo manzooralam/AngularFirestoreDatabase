@@ -35,7 +35,7 @@ constructor(private fireStore: AngularFirestore) {
 
   ```
   
-## 4: Adding data to FireStore
+## 3: Adding data to FireStore
 
 To push objects to the database we have two main options, if we know the ID we want to give to
 the document, we can use something like this:
@@ -79,7 +79,7 @@ email: 'manzoor@gmail.com',
 })
 ```
 
-## 4: Remove data from FireStore
+## 5: Remove data from FireStore
 There are a few ways we can remove data:
 • Removing a specific document (an object).
 • Removing a property or field from a document.
@@ -101,7 +101,7 @@ age: firebase.firestore.FieldValue.delete()
 });
 }
 ```
-## 5: 
+## 6: 
 
 
 
