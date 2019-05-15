@@ -1,5 +1,7 @@
 # AngularFirestoreDatabase
 
+(Adding Data to Cloud Firestore)[https://cloud.google.com/firestore/docs/manage-data/add-data]
+
 ## 1 The FireStore Database:
 FireStore is a NoSQL document-oriented database.
 All data is stored in objects called documents.
